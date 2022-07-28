@@ -16,5 +16,14 @@
     "url": "https://github.com/netanmangal/graphql/issues"
   },
   "homepage": "https://github.com/netanmangal/graphql#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0",
+    "mongoose": "^6.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
